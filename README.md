@@ -1,6 +1,8 @@
 🎯 Health-to-Auto Insurance Cross-Sell Funnel & Campaign ROI Simulator
 Strategic Business Analytics, Machine Learning Propensity Modeling, and Interactive BI Forecasting
 
+---
+
 📌 Executive Summary & Key Achievements
 This project transitions an actuarial perspective into a high-impact commercial data analytics framework. Utilizing a dataset of 381,109 health insurance policyholders, I built an end-to-end data pipeline (MySQL, Python, and Power BI) to optimize cross-sell telemarketing outreach for a secondary Auto Insurance product.
 Financial Impact: Developed a Propensity-to-Buy model (ROC-AUC: 0.8461) that isolates 90.54% of all auto insurance buyers within the top 40% of scored leads, enabling marketing to eliminate 60% of cold outbound calls and protect profit margins.
