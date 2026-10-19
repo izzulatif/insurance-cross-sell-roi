@@ -3,7 +3,7 @@ Strategic Business Analytics, Machine Learning Propensity Modeling, and Interact
 
 ---
 
-## 📌 **Executive Summary & Key Achievements**
+# 📌 **Executive Summary & Key Achievements**
 This project transitions an actuarial perspective into a high-impact commercial data analytics framework. Utilizing a dataset of 381,109 health insurance policyholders, I built an end-to-end data pipeline (MySQL, Python, and Power BI) to optimize cross-sell telemarketing outreach for a secondary Auto Insurance product.
 Financial Impact: Developed a Propensity-to-Buy model (ROC-AUC: 0.8461) that isolates 90.54% of all auto insurance buyers within the top 40% of scored leads, enabling marketing to eliminate 60% of cold outbound calls and protect profit margins.
 
@@ -11,14 +11,18 @@ Strategic SQL Insights: Pinpointed that 45.86% of leads immediately disqualify a
 
 Interactive BI Simulation: Designed a dynamic "What-If" Campaign ROI Simulator in Power BI using advanced DAX parameters, allowing business stakeholders to instantly calculate expected campaign costs, net commission revenue, and overall ROI based on targeting thresholds.
 
-💻 Tech Stack
+---
+
+# 💻 Tech Stack
 Database: MySQL (Advanced CTEs, Window Functions, Database Views, NTILE Deciles, Normalization)
 
 Programming: Python 3.10 (Pandas, Numpy, SciPy, Scikit-Learn, SQLAlchemy, PyMySQL)
 
 Business Intelligence: Power BI (Dynamic DAX, Slicer Parameters, User-Experience Dashboard Design)
 
-📊 Analytics Pipeline Architecture
+---
+
+# 📊 Analytics Pipeline Architecture
 Phase 1: ETL & Database Engineering (MySQL)
 Normalized a flat, uncleaned 381,109-row dataset into a star schema: dim_customers, dim_vehicles, and fact_cross_sell_campaigns.
 
@@ -50,9 +54,3 @@ Phase 4: Interactive Power BI ROI Simulator
 Mapped out dynamic DAX measures incorporating campaign assumptions (RM 1,200 auto premium, RM 5.00 cost-per-call, 15% broker commission, RM 100 customer onboarding cost).
 
 Created a customized Line and Stacked Column Chart to overlay the rising curve of Cumulative Gain % against the falling line of Campaign ROI %, showing stakeholders the optimal campaign target limits.
-
-🚀 What We Do Next
-With your repo structure ready and your README.md drafted, you have an incredibly polished showcase.
-Would you like me to help you format or write a portfolio-ready Python script template (with clean markdown comments and organized code blocks) that you can save as your 03_statistical_testing_and_propensity_model.ipynb?
-
-Alternatively, we can jump into preparing portfolio presentation strategies—specifically, how to explain your database architecture and propensity model in an interview when talking to a hiring manager! Let me know what you would like to tackle first.
