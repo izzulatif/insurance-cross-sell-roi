@@ -42,3 +42,10 @@ Interactive BI Simulation: Designed a dynamic "What-If" Campaign ROI Simulator i
 **Phase 4: Interactive Power BI ROI Simulator**
   * Mapped out dynamic DAX measures incorporating campaign assumptions (RM 1,200 auto premium, RM 5.00 cost-per-call, 15% broker commission, RM 100 customer onboarding cost).
   * Created a customized Line and Stacked Column Chart to overlay the rising curve of Cumulative Gain % against the falling line of Campaign ROI %, showing stakeholders the optimal campaign target limits.
+
+## 📊 Interactive Dashboard Interface
+* The Customer Profile & Funnel Bottlenecks:
+ ![Page 1](asset/Page 1.png)
+
+* The Actuarial Propensity-to-Buy Simulator in action, showing the slider at Decile 4
+ ![Page 2](asset/Page 2.png)
