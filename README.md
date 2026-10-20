@@ -45,7 +45,9 @@ Interactive BI Simulation: Designed a dynamic "What-If" Campaign ROI Simulator i
 
 ## 📊 Interactive Dashboard Interface
 * The Customer Profile & Funnel Bottlenecks:
- ![Page 1](asset/Page 1.png)
+
+![Page 1](asset/Page%201.png)
 
 * The Actuarial Propensity-to-Buy Simulator in action, showing the slider at Decile 4
- ![Page 2](asset/Page 2.png)
+
+![Page 2](asset/Page%202.png)
